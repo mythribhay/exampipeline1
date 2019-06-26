@@ -3,19 +3,22 @@ pipeline {
     stages {
         stage('Build') 
         { 
-            steps {
+            steps 
+            {
                 // 
             }
         }
         stage('Test') 
         { 
-            steps {
+            steps 
+            {
                 // 
             }
         }
         stage('Deploy') 
         { 
-            steps {
+            steps 
+            {
                 // 
             }
         }
